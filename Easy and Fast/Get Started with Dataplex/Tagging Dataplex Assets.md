@@ -37,4 +37,9 @@ gcloud dataplex assets create customer-details-dataset \
 
 ```
 
+### From lab 3 need to perform
+
+
+
+
 ### DONE !!!
